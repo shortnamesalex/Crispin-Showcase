@@ -19,5 +19,7 @@ Melon:
 ![2020-06-13_10 06 44](https://user-images.githubusercontent.com/63942150/84558654-ae3d3780-ad5e-11ea-841f-0ac6f453f5b4.png)
 ![2020-06-13_10 08 49](https://user-images.githubusercontent.com/63942150/84558666-ca40d900-ad5e-11ea-8c1a-65436163d938.png)
 ![2020-06-13_10 12 30](https://user-images.githubusercontent.com/63942150/84558706-f8261d80-ad5e-11ea-996f-8c1dc4b886c2.png)
+![2020-06-30_21 27 25](https://user-images.githubusercontent.com/63942150/86138473-bba54080-bb18-11ea-8e86-0e88252108d4.png)
+![2020-06-30_21 28 24](https://user-images.githubusercontent.com/63942150/86138497-c2cc4e80-bb18-11ea-878b-0d26eb22f4ab.png)
 
 soon.
