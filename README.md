@@ -27,5 +27,9 @@ VPlus:
 ![2020-06-30_21 32 32](https://user-images.githubusercontent.com/63942150/86139535-0ffcf000-bb1a-11ea-9298-20d8fad6f460.png)
 ![2020-06-30_21 31 29](https://user-images.githubusercontent.com/63942150/86139567-1a1eee80-bb1a-11ea-978b-d514f745729a.png)
 ![2020-06-30_21 38 01](https://user-images.githubusercontent.com/63942150/86139594-2145fc80-bb1a-11ea-8196-8da16cdc2d99.png)
+![2020-07-01_21 35 40](https://user-images.githubusercontent.com/63942150/86257336-9c271a00-bbe3-11ea-91e5-9d6279974b62.png)
+![2020-07-01_21 35 27](https://user-images.githubusercontent.com/63942150/86257366-a34e2800-bbe3-11ea-9810-0c3aa2c5ce24.png)
+![2020-07-01_21 39 31](https://user-images.githubusercontent.com/63942150/86257398-aba66300-bbe3-11ea-98ae-1aa6b85337a9.png)
+![2020-07-01_21 37 53](https://user-images.githubusercontent.com/63942150/86257415-b2cd7100-bbe3-11ea-8c1b-195f4d7c74cb.png)
 
 soon.
