@@ -32,4 +32,12 @@ VPlus:
 ![2020-07-01_21 39 31](https://user-images.githubusercontent.com/63942150/86257398-aba66300-bbe3-11ea-98ae-1aa6b85337a9.png)
 ![2020-07-01_21 37 53](https://user-images.githubusercontent.com/63942150/86257415-b2cd7100-bbe3-11ea-8c1b-195f4d7c74cb.png)
 
+Credits:
+
+- https://www.planetminecraft.com/project/new-zealand-realistic-terrain-project-spring-v1-0-8k-x-8k-download-blueprint/
+- Xirreal's mountain map. (only available in shaderLABS)
+- https://www.planetminecraft.com/project/forest-path-4571257/
+- https://www.planetminecraft.com/project/ulena-canyon-lake/
+
+
 soon.
