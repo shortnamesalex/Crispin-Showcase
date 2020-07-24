@@ -36,6 +36,11 @@ Vibrant Shaders:
 ![2020-07-24_08 36 58](https://user-images.githubusercontent.com/63942150/88353838-30bb0d00-cd89-11ea-8330-3cdbec218458.png)
 ![2020-07-24_08 32 51](https://user-images.githubusercontent.com/63942150/88353845-39134800-cd89-11ea-951b-235333699caf.png)
 ![2020-07-24_08 38 22](https://user-images.githubusercontent.com/63942150/88353859-42041980-cd89-11ea-94ad-337a2d6b5fb9.png)
+![2020-07-24_08 47 52](https://user-images.githubusercontent.com/63942150/88354251-8cd26100-cd8a-11ea-9c0c-c700f665e7ab.png)
+![2020-07-24_08 51 03](https://user-images.githubusercontent.com/63942150/88354372-dc189180-cd8a-11ea-8783-02fb08d650f9.png)
+![2020-07-24_08 54 11](https://user-images.githubusercontent.com/63942150/88354485-429daf80-cd8b-11ea-9ef8-c8eae94b3255.png)
+![2020-07-24_08 56 38](https://user-images.githubusercontent.com/63942150/88354594-9ad4b180-cd8b-11ea-8473-d512e6d1287d.png)
+![2020-07-24_09 01 54](https://user-images.githubusercontent.com/63942150/88354807-5a296800-cd8c-11ea-9979-164e2410c4a3.png)
 
 Credits:
 
@@ -43,6 +48,7 @@ Credits:
 - Xirreal's mountain map. (only available in shaderLABS)
 - https://www.planetminecraft.com/project/forest-path-4571257/
 - https://www.planetminecraft.com/project/ulena-canyon-lake/
+- https://www.curseforge.com/minecraft/worlds/wandering-isles-custom-terrain-survival-map
 
 
 soon.
