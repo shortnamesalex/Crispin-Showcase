@@ -32,6 +32,11 @@ VPlus:
 ![2020-07-01_21 39 31](https://user-images.githubusercontent.com/63942150/86257398-aba66300-bbe3-11ea-98ae-1aa6b85337a9.png)
 ![2020-07-01_21 37 53](https://user-images.githubusercontent.com/63942150/86257415-b2cd7100-bbe3-11ea-8c1b-195f4d7c74cb.png)
 
+Vibrant Shaders:
+![2020-07-24_08 36 58](https://user-images.githubusercontent.com/63942150/88353838-30bb0d00-cd89-11ea-8330-3cdbec218458.png)
+![2020-07-24_08 32 51](https://user-images.githubusercontent.com/63942150/88353845-39134800-cd89-11ea-951b-235333699caf.png)
+![2020-07-24_08 38 22](https://user-images.githubusercontent.com/63942150/88353859-42041980-cd89-11ea-94ad-337a2d6b5fb9.png)
+
 Credits:
 
 - https://www.planetminecraft.com/project/new-zealand-realistic-terrain-project-spring-v1-0-8k-x-8k-download-blueprint/
