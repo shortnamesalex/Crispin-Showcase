@@ -13,14 +13,6 @@ Raspberry:
 ![2020-06-30_20 55 42](https://user-images.githubusercontent.com/63942150/86135072-8bf43980-bb14-11ea-882d-c42aa98a388d.png)
 
 Melon:
-![2020-07-24_08 28 09](https://user-images.githubusercontent.com/63942150/88353473-c9508d80-cd87-11ea-9d73-7180aea3bfea.png)
-![2020-06-14_09 18 48](https://user-images.githubusercontent.com/63942150/84583228-99c17380-ae20-11ea-97f2-105a3327dd52.png)
-![2020-06-13_10 06 16](https://user-images.githubusercontent.com/63942150/84558620-759d5e00-ad5e-11ea-9cdb-d3b92503f067.png)
-![2020-06-13_10 06 44](https://user-images.githubusercontent.com/63942150/84558654-ae3d3780-ad5e-11ea-841f-0ac6f453f5b4.png)
-![2020-07-24_08 25 04](https://user-images.githubusercontent.com/63942150/88353479-d3728c00-cd87-11ea-94c4-80c36eedd252.png)
-![2020-06-13_10 12 30](https://user-images.githubusercontent.com/63942150/84558706-f8261d80-ad5e-11ea-996f-8c1dc4b886c2.png)
-![2020-06-30_21 27 25](https://user-images.githubusercontent.com/63942150/86138473-bba54080-bb18-11ea-8e86-0e88252108d4.png)
-![2020-06-30_21 28 24](https://user-images.githubusercontent.com/63942150/86138497-c2cc4e80-bb18-11ea-878b-0d26eb22f4ab.png)
 
 VPlus:
 ![2020-06-30_21 34 03](https://user-images.githubusercontent.com/63942150/86139516-0a9fa580-bb1a-11ea-9c36-649f35ed9dc5.png)
