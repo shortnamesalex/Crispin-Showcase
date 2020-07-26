@@ -13,6 +13,16 @@ Raspberry:
 ![2020-06-30_20 55 42](https://user-images.githubusercontent.com/63942150/86135072-8bf43980-bb14-11ea-882d-c42aa98a388d.png)
 
 Melon:
+![2020-07-26_11 03 38](https://user-images.githubusercontent.com/63942150/88471204-60584980-cf30-11ea-8df3-ff8cf51193ab.png)
+![2020-07-26_11 02 38](https://user-images.githubusercontent.com/63942150/88471208-77973700-cf30-11ea-840d-2d637378b900.png)
+![2020-07-26_11 02 31](https://user-images.githubusercontent.com/63942150/88471210-7d8d1800-cf30-11ea-99fb-43854330c0bd.png)
+![2020-07-26_11 07 45](https://user-images.githubusercontent.com/63942150/88471212-854cbc80-cf30-11ea-84b8-a52eb78f1629.png)
+![2020-07-26_11 11 59](https://user-images.githubusercontent.com/63942150/88471229-dceb2800-cf30-11ea-8ead-2fc8f2c0c5ce.png)
+![2020-07-26_11 14 36](https://user-images.githubusercontent.com/63942150/88471251-423f1900-cf31-11ea-8627-8cd763040b08.png)
+![2020-07-26_11 18 46](https://user-images.githubusercontent.com/63942150/88471278-cbeee680-cf31-11ea-9a94-28b842fcfba0.png)
+![2020-07-26_11 20 57](https://user-images.githubusercontent.com/63942150/88471300-1ec89e00-cf32-11ea-87b7-51940415110c.png)
+
+
 
 VPlus:
 ![2020-06-30_21 34 03](https://user-images.githubusercontent.com/63942150/86139516-0a9fa580-bb1a-11ea-9c36-649f35ed9dc5.png)
@@ -41,6 +51,7 @@ Credits:
 - https://www.planetminecraft.com/project/forest-path-4571257/
 - https://www.planetminecraft.com/project/ulena-canyon-lake/
 - https://www.curseforge.com/minecraft/worlds/wandering-isles-custom-terrain-survival-map
+- https://www.planetminecraft.com/project/esketika-10k-x-9k-custom-continent/
 
 
 soon.
