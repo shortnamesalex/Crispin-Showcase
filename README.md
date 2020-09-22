@@ -18,5 +18,3 @@ Nostalgia:
 ![2020-09-22_19 26 50](https://user-images.githubusercontent.com/63942150/93881820-9ab04e00-fd09-11ea-8a52-af73469c3a48.png)
 ![2020-09-22_19 27 38](https://user-images.githubusercontent.com/63942150/93881911-aef44b00-fd09-11ea-8ee8-a4487522f480.png)
 
-Credits:
-https://www.planetminecraft.com/project/winter-valley-1k-1k-map/
